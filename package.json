@@ -1,0 +1,19 @@
+{
+  "name": "obinna_npmpub",
+  "version": "1.0.0",
+  "description": "tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obinnajude/Obinna_npmpub.git"
+  },
+  "author": "Obinna jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obinnajude/Obinna_npmpub/issues"
+  },
+  "homepage": "https://github.com/Obinnajude/Obinna_npmpub#readme"
+}
